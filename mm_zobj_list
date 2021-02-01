@@ -1,0 +1,468 @@
+
+
+Characters
+
+	???	bjt
+	Anju	an1
+	Anju Wedding Dress	and
+	Anju's Grandmother	nb
+	Anju's Mother	ah
+	Bomb Shop Owner	rs
+	Bombers	cs
+	Captain Keeta	bsb
+	Carpenter	daiku
+	Carpenter Mutoh	toryo
+	Cremia	 ma2
+	Cursed Rich Man	ssh
+	Dampé	tk
+	Deku Business Scrub	dnt
+	Deku Butler	dno
+	Deku King	dnq
+	Deku Princess	dnp
+	Deku Scrub 1	dnk
+	Deku Scrub 2	dns
+	Fisherman	tsn
+	Gabora	kgy
+	Gerudo Pirate 1	gel
+	Gerudo Pirate 2	geld
+	Gerudo Pirate 3	gla
+	Gerudo Pirate 4	kz
+	Giant Turtle	kamejima
+	Gorman Brother 1	in
+	Gorman Brother 2	in2
+	Goron	dai
+	Goron 2	oFld_map
+	Goron Darmani III	gg
+	Goron Elder	jg
+	Goron Elder's Son	gk
+	Great Fairy	dy_obj
+	Grog	hs
+	Guardian Deity	giant
+	Guru-Guru	fu
+	Honey & Darling	mu
+	Imprisoned Monkey	mnk
+	Kaepora Gaebora	owl
+	Kafei	test3
+	Kamaro	yb
+	Keaton	 kitan
+	Kotake	trt
+	Koume 1	tro
+	Koume 2	tru
+	Link	link_child
+	Link Deku Link	link_nuts
+	Link Fierce Deity Link	link_boy
+	Link Goron Link	link_goron
+	Link Zora Link	link_zora
+	Madame Aroma	al
+	Magic Bean Seller	ms
+	Mamamu Yan	aob
+	Man from Curiosity Shop and Trading Post	fish
+	Mask Salesman	osu
+	Mayor Dotour	dt
+	Moon Child	ob
+	Mr. Barten	tab
+	Old Lady	bba
+	Pamela	pamera
+	Pamela's Father	harfgibud
+	Postman	mm
+	Princess Zelda 1	zl1
+	Princess Zelda 2	zl4
+	Professor	mk
+	Rich Man	sth
+	Romani	 ma1
+	Rosa Sisters	rz
+	Shikashi	bji
+	Skull Kid	stk
+	Soldier	sdn
+	Swamp Tourist Center Guide	shn
+	Swordsman	js
+	Tingle	bal
+	Zora 1	ru2
+	Zora 2	zo
+	Zora Baby	zoraegg
+	Zora Evan	zos
+	Zora Japas	zob
+	Zora Lulu	zov
+	Zora Mikau	zog
+	Zora Tijo	zod
+	Zora Toto	zm
+	Zubora	kbt
+	Bird	bh
+	Cow	cow
+	Crow	crow
+	Cucco	niw
+	Dog	dog
+	Epona	horse_link_child
+	Fish1	fish
+	Fish2	fb
+	Frog	fr
+	Gorman Brothers' Horse	ha
+	Scarecrow	ka
+	SeaHorse	ot
+	Armos	am
+	Beamos	vm
+	Big Octo	bigokuta
+	Bio Deku Baba	boss05
+	Carnivorous Lily Pad	raf
+	Deep Python	utubo
+	Deku Baba	dekubaba
+	Deku Scrub 3	dekunuts
+	Deku Scrub 4	hintnuts
+	Desbreko Piranha Fish	pr
+	Dinofols	dinofos
+	Dodongo	dodongo
+	Dragonfly	grasshopper
+	Eeno	snowman
+	Eyegore	eg
+	Garo and Garo Master	jso
+	Gekko	bigslime
+	Ghost Alien	uch
+	Ghost Hunter	ps
+	Gibdo and ReDead	rd
+	Gomess	death
+	Hiploop	pp
+	Igos Du Ikana & King's Lackey 1	knight
+	Igos du Ikana Head, King's Lackeys Heads	ikn_demo
+	Iron Knuckle	ik
+	Octo thing	okuta
+	Peahat	ph
+	Poe	po
+	Poe Composer	po_composer
+	Poe Fusen	po_fusen
+	Real Bombchu	rat
+	Shell Blade 1	sb
+	Skulltula 1	st
+	Snapper Turtle	tl
+	Stalfos	skb
+	Takkuri	thiefbird
+	Tektite	title
+	Wallmaster	wallmaster
+	Wart	boss04
+	Wizzrobe	wiz
+	Wolfos + White Wolfos	wf
+	Goht	boss_hakugin
+	Gyorg	boss03
+	Majora	boss07
+	Odolwa	boss01
+	Twinmold	boss02
+	
+Other
+
+	Anju's Wedding Dress + Stand	drs
+	Cremia's Horse Wagon	um
+	Masks 1	dmask
+	Ocarina	stk2
+	Post Box	pst
+	Wood Pole	hata
+
+To check
+
+	ani
+	ahg
+	Beaver 1 az
+	bai
+	bb
+	Receptionist (Mayor's Residence) - bg
+	BLUE HAIR LADY (Mayor's Residence) - bg
+	bob
+	boj
+	box
+	cne
+	ds2n
+	warp1
+	wdhand
+
+Unidentified
+
+	gameplay_keep
+	b_heart
+	astr
+	bat
+	bigpo
+	bdoor
+	bee
+	big_fwall
+	bigcircle
+	bombf
+	bombiwa
+	botihasira
+	boyo
+	bsmask
+	bubble
+	cha
+	comb
+	crace_object
+	ctower_rot
+	d_hsblock
+	d_lift
+	danpei_object
+	dblue_object
+	dekucity_ana_obj
+	dekucity_obj
+	dkjail_obj
+	dor01
+	dor02
+	dor03
+	dor04
+	dora
+	driftice
+	efc_star_field
+	efc_tw
+	ending_obj
+	f40_obj
+	f40_switch
+	f52_obj
+	f53_obj
+	fall
+	fall2
+	famos
+	firefly
+	flowerpot
+	fsn
+	fu_kaiten
+	fu_mato
+	funen
+	fusen
+	fwall
+	fz
+	ghaka
+	gi_arrow
+	gi_arrowcase
+	gi_bean
+	gi_bigbomb
+	gi_bombpouch
+	gi_bomb_1
+	gi_bomb_2
+	gi_bosskey
+	gi_bottle
+	gi_bottle_04
+	gi_bottle_15
+	gi_bottle_16
+	gi_bottle_21
+	gi_bottle_22
+	gi_bottle_red
+	gi_bow
+	gi_camera
+	gi_compass
+	gi_fieldmap
+	gi_fish
+	gi_ghost
+	gi_glasses
+	gi_gold_dust
+	gi_golonmask
+	gi_heart
+	gi_hearts
+	gi_hookshot
+	gi_insect
+	gi_key
+	gi_ki_tan_mask
+	gi_liquid
+	gi_loach
+	gi_longsword
+	gi_magicmushroom
+	gi_magicpot
+	gi_map
+	gi_mask03
+	gi_mask05
+	gi_mask06
+	gi_mask09
+	gi_mask10
+	gi_mask11
+	gi_mask12
+	gi_mask13
+	gi_mask14
+	gi_mask15
+	gi_mask16
+	gi_mask17
+	gi_mask18
+	gi_mask20
+	gi_mask21
+	gi_mask22
+	gi_mask23
+	gi_melody
+	gi_milk
+	gi_mssa
+	gi_m_arrow
+	gi_nuts
+	gi_nutsmask
+	gi_ocarina
+	gi_purse
+	gi_rabit_mask
+	gi_reserve00
+	gi_reserve01
+	gi_reserve_b_00
+	gi_reserve_b_01
+	gi_reserve_c_00
+	gi_reserve_c_01
+	gi_rupy
+	gi_schedule
+	gi_seahorse
+	gi_shield_2
+	gi_shield_3
+	gi_soldout
+	gi_soul
+	gi_stick
+	gi_stonemask
+	gi_sutaru
+	gi_sword_1
+	gi_sword_2
+	gi_sword_3
+	gi_sword_4
+	gi_truth_mask
+	gi_zoramask
+	gm
+	gmo
+	goroiwa
+	goronswitch
+	gs
+	haka_obj
+	hakaisi
+	akugin_demo
+	hakugin_obj
+	hana
+	hanareyama_obj
+	hariko
+	heavy_object
+	hgdoor
+	hsstump
+	hunsui
+	ice_block
+	icefloe
+	icicle
+	ikana_obj
+	ikninside_obj
+	iknv_obj
+	inibs_object
+	ishi
+	kaizoku_obj
+	kanban
+	keikoku_demo
+	keikoku_obj
+	kepn_koya
+	kibako
+	kibako2
+	kin2_obj
+	kinsta1_obj
+	kinsta2_obj
+	kujiya
+	kumo30
+	kusa
+	kzsaku
+	ladder
+	last_obj
+	lastday
+	lbfshot
+	lightswitch
+	lodmoon
+	lotus
+	mag
+	mamenoki
+	market_obj
+	maruta
+	mask_bakuretu
+	mask_bigelf
+	mask_boy
+	mask_bree
+	mask_bu_san
+	mask_dancer
+	mask_gero
+	mask_gibudo
+	mask_goron
+	mask_json
+	mask_kerfay
+	mask_ki_tan
+	mask_kyojin
+	mask_meoto
+	mask_nuts
+	mask_posthat
+	mask_rabit
+	mask_romerny
+	mask_skj
+	mask_stone
+	mask_truth
+	mask_yofukasi
+	mask_zacho
+	mask_zora
+	mastergolon
+	masterzoora
+	mbar_obj
+	mir_ray
+	mkk
+	moonend
+	moonston
+	msmo
+	mtoride
+	nnh
+	numa_obj
+	nwc
+	ny
+	object_obj_chan
+	object_obj_danpeilift
+	object_obj_dinner
+	object_obj_milk_bin
+	object_obj_tokeidai
+	object_obj_usiyane
+	object_obj_yasi
+	object_omoya_obj
+	object_open_obj
+	object_os_anime
+	object_oyu
+	po_sisters
+	posthouse_obj
+	racetsubo
+	raillift
+	random_obj
+	rb
+	redead_obj
+	rotlift
+	rr
+	secom_obj
+	sek
+	sekihig
+	sekihil
+	sekihin
+	sekihiz
+	sichitai_obj
+	sinkai_kabe
+	slime
+	smtower
+	snowwd
+	spdweb
+	spidertent
+	spinyroll
+	spot11_obj
+	stk3
+	stream
+	syokudai
+	syoten
+	taisou
+	takaraya_objects
+	tanron1
+	tanron2
+	tanron3
+	tanron4
+	tanron5
+	taru
+	tokei_step
+	tokei_tobira
+	tokei_turret
+	trap
+	tree
+	tsubo
+	twig
+	umajump
+	visiblock
+	wdor01
+	wdor02
+	wdor03
+	wdor04
+	wdor05
+	object_warp_uzu
+	object_water_effect
+	wood02
+	yabusame_point
+	yado_obj
+	yukimura_obj
+	yukiyama
+	zg
+	zoraband
